@@ -9,5 +9,10 @@
             "email": "normal@normalcoder.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "files":[
+            "EasyOSC.php"
+        ]
+    }
 }
