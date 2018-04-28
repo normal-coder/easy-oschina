@@ -1,7 +1,7 @@
 {
     "name": "normal/easy-osc",
     "description": "Easy OSChina OpenAPI SDK",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
