@@ -1,0 +1,1 @@
+a:6:{s:12:"access_token";s:32:"833649c2875c4b42f7976ebd523ccd8a";s:10:"token_type";s:6:"bearer";s:10:"expires_in";i:86400;s:13:"refresh_token";s:64:"6522c3e8d341b29c705a33f2baae95ceb5f296e0acdb538eb66a59e6eff4dade";s:5:"scope";s:68:"user_info projects pull_requests issues notes keys hook groups gists";s:10:"created_at";i:1509195703;}

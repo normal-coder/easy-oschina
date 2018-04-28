@@ -1,0 +1,13 @@
+{
+    "name": "normal/easy-osc",
+    "description": "Easy OSChina OpenAPI SDK",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "诺墨",
+            "email": "normal@normalcoder.com"
+        }
+    ],
+    "require": {}
+}
